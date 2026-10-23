@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Character Creator",
+  "description": "Generate unique fantasy champions with iconic classes, attributes, lore, and visual portraits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
