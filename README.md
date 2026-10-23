@@ -2,11 +2,14 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+## 🚀 Live Demo
 
-This contains everything you need to run your app locally.
+**Try the Fantasy Character Creator here:**
 
-View your app in AI Studio: https://ai.studio/apps/ed63aee3-59ef-4330-914d-810d26c6cc94
+🔗 [Open Live Website](https://fantasy-character-creator.onrender.com/)
+
+The application is deployed on Render.
+
 
 ## Run Locally
 
